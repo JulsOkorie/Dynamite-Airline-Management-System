@@ -1,10 +1,10 @@
 # Dynamite-Airline-Management-System
-An airline management system in Java created with Java Programming Language using NetBeans IDE and MySQL Database as the System’s Back-end.
 
-The main goal of the Airline Management System Project in Java is to provide a system for flight booking, as well as other informations. The system includes 
-information such as passenger information, flight information, cancellation details, etc.
+An airline management system created with Java Programming Language using NetBeans IDE and MySQL Database as the System’s Back-end.
 
-MySQL Database is used to store and retrieve data. It allows us to add as many records as we want to our database.
+The goal of the Airline Management System Project in Java is to provide a system for 
+Flight booking, as well as other services. 
+The system provides services such as passenger registration, flight booking, flight cancellation, etc. 
 
-This project on Airline Management System is the automation of registration process of airline system. The system is able to provide much information like passenger’s details, flight details and the booking details. 
-The system allows one to add records when a passenger reserves a ticket. It also allows to delete and update the records based on passenger’s requirements. 
+This project on Airline Management System allows one to add records when a passenger reserves a ticket using MySQL Database, and also to delete and update the records based on a passenger’s requirements. 
+<div><br></div><gwmw style="display:none;"></gwmw>
