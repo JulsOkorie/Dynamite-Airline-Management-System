@@ -7,4 +7,4 @@ Flight booking, as well as other services.
 The system provides services such as passenger registration, flight booking, flight cancellation, etc. 
 
 This project on Airline Management System allows one to add records when a passenger reserves a ticket using MySQL Database, and also to delete and update the records based on a passenger’s requirements. 
-<div><br></div><gwmw style="display:none;"></gwmw>
+
